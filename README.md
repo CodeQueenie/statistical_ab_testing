@@ -9,7 +9,7 @@ This project demonstrates statistical A/B testing for conversion rate optimizati
 ## How to Set Up the Project
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/CodeQueenie/statistical_ab_testing.git
    cd ab_testing_project
 2. Create and activate a Python environment:
    ```bash
@@ -17,7 +17,7 @@ This project demonstrates statistical A/B testing for conversion rate optimizati
    conda activate ab_testing
 3. Install the required packages:
    ```bash
-   pip install -r requirements.txt
+   conda install --file requirements.txt
 4. Open `notebooks/ab_testing.ipynb` in Jupyter Notebook.
 
 5. Select the `Python (ab_testing)` kernel and follow the instructions in the notebook.
